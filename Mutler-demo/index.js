@@ -1,6 +1,6 @@
 const express = require('express');
 const multer = require('multer');
-const path = require('path'); // Read about dik sa3a. https://www.w3schools.com/nodejs/ref_path.asp
+const path = require('path'); // Read about path dik sa3a. https://www.w3schools.com/nodejs/ref_path.asp
 
 const app = express();
 
